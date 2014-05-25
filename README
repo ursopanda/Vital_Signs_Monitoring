@@ -1,0 +1,3 @@
+Implementation for course work: Implementation of embedded device and program for health data monitoring.
+Here is given an implementation of Arduino code.
+Acquiring sensor data from Pulse Sensor (http://pulsesensor.myshopify.com) and temperature sensor. Then sending acquired data via Bluetooth.
